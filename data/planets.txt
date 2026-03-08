@@ -1,0 +1,5 @@
+planet "Aventine"
+	outfitter "Lightspeed"
+	
+planet "New Boston"
+	outfitter "Lightspeed"

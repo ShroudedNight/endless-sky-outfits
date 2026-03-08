@@ -1,0 +1,6 @@
+outfitter "Lightspeed"
+	"Special Edition"
+	"400nm LASER"
+	"400nm LASER Turret"
+	"Yoink!"
+	"I.W.I.N. Button"
