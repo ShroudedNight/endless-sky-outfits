@@ -1,6 +1,6 @@
 name "Experiments"
 about "Screwing Around"
-version "0.0.1"
+version "0.0.2"
 authors
 	"Luc des Trois Maisons"
 tags

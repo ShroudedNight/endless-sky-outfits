@@ -1,13 +1,13 @@
 outfit "Special Edition"
 	category "Systems"
-	"asteroid scan power" 1e+19
+	"asteroid scan power" 9e+14
 	"atmosphere scan" 100
 	bunks 256
-	"burn protection" 1e+19
-	"burn resistance" 1e+19
-	"cargo scan efficiency" 1e+19
-	"cargo scan opacity" 1e+19
-	"cargo scan power" 1e+19
+	"burn protection" 9e+14
+	"burn resistance" 9e+14
+	"cargo scan efficiency" 9e+14
+	"cargo scan opacity" 9e+14
+	"cargo scan power" 9e+14
 	"cargo space" 1024
 	cloak 1
 	"cloak phasing" 1
@@ -17,57 +17,57 @@ outfit "Special Edition"
 	"cloaked pickup" 1
 	"cloaked scanning" 1
 	"cloaked shield permeability" 0
-	"corrosion protection" 1e+19
-	"corrosion resistance" 1e+19
-	"discharge protection" 1e+19
-	"discharge resistance" 1e+19
-	"disruption protection" 1e+19
-	"disruption resistance" 1e+19
-	"energy capacity" 1e+19
-	"energy generation" 1e+19
-	"energy protection" 1e+19
-	"engine capacity" 1e+19
-	"force protection" 1e+19
-	"fuel capacity" 1e+19
-	"fuel generation" 1e+19
-	"fuel protection" 1e+19
+	"corrosion protection" 9e+14
+	"corrosion resistance" 9e+14
+	"discharge protection" 9e+14
+	"discharge resistance" 9e+14
+	"disruption protection" 9e+14
+	"disruption resistance" 9e+14
+	"energy capacity" 9e+14
+	"energy generation" 9e+14
+	"energy protection" 9e+14
+	"engine capacity" 9e+14
+	"force protection" 9e+14
+	"fuel capacity" 9e+14
+	"fuel generation" 9e+14
+	"fuel protection" 9e+14
 	gaslining 1
-	"heat dissipation" 1e+19
-	"heat protection" 1e+19
-	hull 1e+19
-	"hull protection" 1e+19
-	"hull repair rate" 1e+19
+	"heat dissipation" 9e+14
+	"heat protection" 9e+14
+	hull 9e+14
+	"hull protection" 9e+14
+	"hull repair rate" 9e+14
 	"hyperdrive" 1
-	"ion protection" 1e+19
-	"ion resistance" 1e+19
+	"ion protection" 9e+14
+	"ion resistance" 9e+14
 	"jump drive" 1
 	"jump range" 3072
-	"jump speed" 1e+19
-	"leak protection" 1e+19
-	"leak resistance" 1e+19
-	"outfit scan efficiency" 1e+19
-	"outfit scan power" 1e+19
-	"outfit space" 1e+19
-	"piercing protection" 1e+19
-	"piercing resistance" 1e+19
+	"jump speed" 9e+14
+	"leak protection" 9e+14
+	"leak resistance" 9e+14
+	"outfit scan efficiency" 9e+14
+	"outfit scan power" 9e+14
+	"outfit space" 9e+14
+	"piercing protection" 9e+14
+	"piercing resistance" 9e+14
 	"quantum keystone" 1
 	"remnant node" 1
 	"required crew" 1
 	"reverse thrust" 384
-	"scan concealment" 1e+19
-	"scan interference" 1e+19
-	"scram drive" 1e+19
-	"scramble protection" 1e+19
-	"scramble resistance" 1e+19
-	"shield generation" 1e+19
-	"shield protection" 1e+19
-	shields 1e+19
-	"slowing protection" 1e+19
-	"slowing resistance" 1e+19
-	"tactical scan power" 1e+19
+	"scan concealment" 9e+14
+	"scan interference" 9e+14
+	"scram drive" 9e+14
+	"scramble protection" 9e+14
+	"scramble resistance" 9e+14
+	"shield generation" 9e+14
+	"shield protection" 9e+14
+	shields 9e+14
+	"slowing protection" 9e+14
+	"slowing resistance" 9e+14
+	"tactical scan power" 9e+14
 	thrust 384
 	turn 3600
-	"weapon capacity" 1e+19
+	"weapon capacity" 9e+14
 		
 outfit "400nm LASER"
 	category "Guns"
