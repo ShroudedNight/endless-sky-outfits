@@ -193,3 +193,27 @@ outfit "I.W.I.N. Button"
 	"capture defense" 20
 	"unplunderable" 1
 	description "Oh Dear."
+
+outfit "Irnina Engine Block"
+	category "Engines"
+	series "Engines"
+	index 05045
+	"cost" 1765000
+	thumbnail "outfit/ka'het vareti engine"
+	"mass" 118
+	"outfit space" -147
+	"engine capacity" -118
+	"energy consumption" 5.711
+	"heat generation" 1.264
+	"thrust" 164.231
+	"thrusting heat" 3.416
+	"turn" 4037.97
+	"turning heat" 1.722
+	"flare sprite" "effect/ka'het flare/large"
+		"frame rate" 30
+	"flare sound" "plasma large"
+	"steering flare sprite" "effect/ka'het flare/large"
+		"frame rate" 30
+	"steering flare sound" "plasma large"
+	description "The Builders grew the Irnina'het to fill the gap between the nimble Telis and the overwhelming Vareti, and its engine block fills that gap with considerable enthusiasm. Thrust worthy of Inanna herself: it hums constantly, runs warm, and is happiest when it is pushing something much heavier than itself."
+	description "	Builder engineers described its output as 'divine'; the human technicians who first strapped one on described it with words that cannot be printed in an outfitter catalog."
