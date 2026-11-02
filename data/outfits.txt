@@ -73,13 +73,13 @@ outfit "400nm LASER"
 	category "Guns"
 	series "Guns"
 	cost 1
-	thumbnail "outfit/blue optical laser"
+	thumbnail "outfit/violet optical laser"
 	"mass" 0
 	"outfit space" -1
 	"weapon capacity" -1
 	"gun ports" -1
 	weapon
-		"hardpoint sprite" "hardpoint/blue optical laser"
+		"hardpoint sprite" "hardpoint/violet optical laser"
 		"hardpoint offset" 3
 			"frame rate" 3
 		"sound" "optical laser"
@@ -104,13 +104,13 @@ outfit "400nm LASER Turret"
 	category "Turrets"
 	series "Turrets"
 	cost 1
-	thumbnail "outfit/blue optical laser"
+	thumbnail "outfit/violet optical laser"
 	"mass" 0
 	"outfit space" -1
 	"weapon capacity" -1
 	"turret mounts" -1
 	weapon
-		"hardpoint sprite" "hardpoint/blue optical laser"
+		"hardpoint sprite" "hardpoint/violet optical laser"
 		"hardpoint offset" 3
 			"frame rate" 3
 		"sound" "optical laser"
@@ -133,7 +133,7 @@ outfit "400nm LASER Turret"
 	description "Inspired by the Avigi."
 
 effect "400nm LASER glare"
-	sprite "effect/blue optical laser glare"
+	sprite "effect/violet optical laser glare"
 		"frame rate" 3
 		"random start frame"
 		"rewind"
@@ -141,7 +141,7 @@ effect "400nm LASER glare"
 	"absolute angle" 0
 
 effect "400nm LASER reflection"
-	sprite "effect/skylance impact"
+	sprite "effect/violet skylance impact"
 		"random start frame"
 		"scale" 0.125
 	"lifetime" 1
@@ -150,7 +150,7 @@ effect "400nm LASER reflection"
 	"velocity scale" -0.0003
 
 effect "400nm LASER scattering"
-	sprite "effect/skylance impact"
+	sprite "effect/violet skylance impact"
 		"frame rate" 3
 		"scale" 0.5
 	"lifetime" 3

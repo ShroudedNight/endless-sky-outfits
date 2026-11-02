@@ -1,0 +1,24 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Experiments (Endless Sky plugin)
+
+Files:
+ images/effect/violet?optical?laser?glare*
+Copyright: Azure
+License: CC-BY-SA-4.0
+Comment: Recoloured from images/effect/blue optical laser glare* in Endless Sky (blue hues remapped to violet).
+
+Files:
+ images/effect/violet?skylance?impact*
+Copyright: Michael Zahniser <mzahniser@gmail.com>
+License: CC-BY-SA-4.0
+Comment: Recoloured from images/effect/skylance impact* in Endless Sky (blue hues remapped to violet).
+
+Files:
+ images/hardpoint/violet?optical?laser*
+ images/outfit/violet?optical?laser*
+Copyright: Azure
+License: CC-BY-SA-4.0
+Comment: Recoloured from images/hardpoint/blue optical laser* and images/outfit/blue optical laser* in Endless Sky, which were derived from works by Becca Tommaso (blue hues remapped to violet).
+
+License: CC-BY-SA-4.0
+ https://creativecommons.org/licenses/by-sa/4.0/
